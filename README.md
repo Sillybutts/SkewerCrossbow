@@ -80,9 +80,20 @@ Assembly video: Coming soon
 
 The assembly of the SkewBow is definitely more difficult than a standard Skewer. I did my best while staying within the Crossbow form factor.
 
+## Misc.
+
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905), Reddit (u/SillyTheGamer), or by Thingiverse comments.**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+## Images
 
-
+<img src="GHimages/SkewBow1.png" width="500">
+<img src="GHimages/SkewBow2.png" width="500">
+<img src="GHimages/SkewBow3.png" width="500">
+<img src="GHimages/SkewBow4.png" width="500">
+<img src="GHimages/SkewBow5.png" width="500">
+<img src="GHimages/SkewBow6.png" width="500">
+<img src="GHimages/SkewBow7.png" width="500">
+<img src="GHimages/SkewBow8.png" width="500">
+<img src="GHimages/SkewBow9.png" width="500">
