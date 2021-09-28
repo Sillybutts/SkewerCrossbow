@@ -34,6 +34,8 @@ This uses a little bit more than a full 1kg spool of filament. Around 110ish hou
 
 I printed this on my Ender 3 v2, which has a print volume of 220 x 220 x 250 mm. 
 
+<img src="GHimages/SkewBow9.png" width="500">
+
 ## Extra Files
 
 STEP and F3D files are available upon request. Please contact me via Discord (Sillybutts#5905) for those. 
