@@ -37,7 +37,7 @@ I printed this on my Ender 3 v2, which has a print volume of 220 x 220 x 250 mm.
 
 STEP and F3D files are available upon request. Please contact me via Discord (Sillybutts#5905) for those. 
 
-## Preformance
+## Performance
 
 Basic overview video: https://www.youtube.com/watch?v=PaMqwsO_Oak
 
