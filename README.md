@@ -15,7 +15,8 @@ Changelog: 9-28-21 10:00PM EST: The v2 of the SkewBow is now released. All the p
 **The old v1/Beta release of this blaster is zipped and included in the files for the current blaster. If you need to print a replacement bit for a v1, you still can.**
 
 
-
+<img src="GHimages/SkewBow1.png" width="500">
+<img src="GHimages/SkewBow2.png" width="500">
 
 This is a printable 1995 Crossbow that uses the internal mechanism of the Skewer blaster designed by Charamile Designs (Taffy). 
 
