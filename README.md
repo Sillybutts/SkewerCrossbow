@@ -66,7 +66,7 @@ Hardware:
 - 1x 5/16" 10-32 bolt/screw 
 - 16x 10-32 nut
 - 4x optional 10-32 cap/acorn nut for the stock rods.
-- 30x 4-40 screw (the small black ones. Could be replaced with Nerf screws if unavailable)
+- 32x 4-40 screw (the small black ones. Could be replaced with Nerf screws if unavailable)
 - 1x short pin from Slug, you could probably use a paper clip lol.
 - 2x small extension spring (for sear and mag release)
 - 2x dash-123 o-ring
@@ -76,6 +76,8 @@ Hardware:
 - 1x TC length spring you want to use
 - 1x TC length barrel you want to use
 - 1x foam or rubber pad for the plunger head
+
+More detailed list for people looking to order in bulk from McMaster: https://docs.google.com/spreadsheets/d/1xD1mAwxAeg-MQhMcJ_JEOAPvro0LUjgT-C1984fHgLI/edit?usp=sharing
 
 ## Assembly
 
