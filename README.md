@@ -70,8 +70,8 @@ Hardware:
 - 1x short pin from Slug, you could probably use a paper clip lol.
 - 2x small extension spring (for sear and mag release)
 - 2x dash-123 o-ring
-- 3x 012 o-ring
-- 2x 011 o-ring
+- 2x 012 o-ring
+- 1x 011 o-ring
 - 1x round 4-40 standoff (sear pivot, I can probably make a printable version later)
 - 1x TC length spring you want to use
 - 1x TC length barrel you want to use
