@@ -54,7 +54,7 @@ The performance of this blaster is the same as a Skewer, so about 210fps with go
 
 ***Sorry for mixing imperial and metric, the blaster was designed in mm while Slug's hardware and the Skewer were done in inches.***
 
-You can get all hardware from CaptainSlug, but it will probably be a custom order. Most of this is the same as a Skewer, but there's some extra small bits, more extension springs, and more/different threaded rods.
+You can get all hardware from CaptainSlug, ~~but it will probably be a custom order~~ Slug apparently added SkewBow kits to his Etsy! It's an option on the Skewer hardware listing https://www.etsy.com/listing/1002947730/skewer-homemade-by-taffy-hardware-kit?variation0=2349744715. Most of this is the same as a Skewer, but there's some extra small bits, more extension springs, and more/different threaded rods.
 
 Hardware: 
 - 5.18 Inch (13cm-ish) Skewer plunger tube
