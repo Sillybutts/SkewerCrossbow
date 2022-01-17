@@ -9,7 +9,7 @@ The SkewBow, a Skewer inside a 1995 Crossbow, all printable.
 
 - Changelog: 9-28-21 10:00PM EST: The v2 of the SkewBow is now released. All the parts have had small tweaks done to improve printability and reliability. All externally visible parts are now modified to have better color splitting between parts. You can now make a perfect color matched SkewBow without painting prints. Five 4-40 screws have been added to the hardware list. Some of the new pieces are screwed in, some are part of the threaded rod structure, and the really small cosmetic pieces are either friction fit or glued in. 
 
-
+- Changelog: 1-17-22 1:04PM EST: Updated 1stock, apparently the nut slots in it are too tight! I have no idea how they ended up like that, all my test prints had the correct hole sizing. Sorry!
 
 
 **The old v1/Beta release of this blaster is zipped and included in the files for the current blaster. If you need to print a replacement bit for a v1, you still can.**
