@@ -81,7 +81,7 @@ More detailed list for people looking to order in bulk from McMaster: https://do
 
 ## Assembly
 
-Assembly video: Coming soon
+Assembly video: https://www.youtube.com/watch?v=IAop-2hu9pY 
 
 The assembly of the SkewBow is definitely more difficult than a standard Skewer. I did my best while staying within the Crossbow form factor.
 
