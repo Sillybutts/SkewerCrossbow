@@ -18,6 +18,15 @@ The SkewBow, a Skewer inside a 1995 Crossbow, all printable.
 <img src="GHimages/SkewBow1.png" width="500">
 <img src="GHimages/SkewBow2.png" width="500">
 
+
+
+<a href="https://www.printables.com/model/875265-skewbow-skewer-crossbow-nerf-homemade"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875265-skewbow-skewer-crossbow-nerf-homemade
+
+
+
+
 This is a printable 1995 Crossbow that uses the internal mechanism of the Skewer blaster designed by Charamile Designs (Taffy). 
 
 https://www.youtube.com/watch?v=YjSSTB4wfps
